@@ -1,0 +1,13 @@
+#img {
+    width: 400px;
+
+   
+}
+.img  {
+    display: flex;
+   
+    justify-content: center;
+}
+.borderRed {
+    border: 2px solid red;
+}
